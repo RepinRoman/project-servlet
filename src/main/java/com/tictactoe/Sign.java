@@ -3,7 +3,7 @@ package com.tictactoe;
 public enum Sign {
     EMPTY(' '),
     CROSS('X'),
-    NOUGHT('0');
+    NOUGHT('O');
 
     private final char sign;
 
